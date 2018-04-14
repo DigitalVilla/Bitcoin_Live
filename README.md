@@ -1,5 +1,8 @@
-# Bitcoin Live Currency
-This is a simple XHR app to get live updates for Bitcoin.</br> 
-Source: CoinDesk Bitcoin Price Index API
-##### Screen Shot
-![Screenshot](bitcoin.png)
+# BitWise 
+### A live BitCoin "Checker" 
+#### Technologies 
+JavaScript, AJAX, CSS, HTML, JSON
+##### API
+CoinDesk.com
+#### Screen Shot
+![Screenshot](screenshot.png)
